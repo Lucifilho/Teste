@@ -1,0 +1,27 @@
+<!--<ul>                               
+                          <li class="uk-parent"><a href="#"></a>PRODUCTS & SERVICES</li>
+                          <li class="uk-parent"><a href="#"></a>WHY AAA</li>
+                          <li class="uk-parent"><a href="#"></a>CAREERS</li>
+                          <li class="uk-parent"><a href="#"></a>NEWS</li>
+                          <li class="uk-parent"><a href="#"></a>PORTALS</li>
+                          <li class="uk-parent"><a href="#"></a>CONTACT US</li>
+                      </ul>
+
+                       Header transparente
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark p-md-3">
+      <div class="container">
+        <a href="#" class="navbar-brand">
+          WEB ZONE
+        </a>        
+      </div>
+    </nav>
+    
+    Banner: header tranparente
+    <div class="banner-image w-100 vh-100 d-flex justify-content-center align-items-center">
+      <div class="content text-center">
+        <h1 class="text-white"> SERVICE. SOLUTIONS. QUALITY. VALUE</h1>
+      </div> 
+              <div class="uk-background-blend-multiply uk-background-primary uk-background-cover uk-height-small uk-panel uk-flex uk-flex-center uk-flex-middle" style="background-image: url(images/photo.jpg);">
+            <div class="uk-overlay uk-overlay-default uk-position-top">
+       
+    </div>-->
